@@ -1,0 +1,6 @@
+{
+  "name": "Smart Eco Bin",
+  "description": "Application mobile premium et minimaliste pour le tri sélectif et le recyclage intelligent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
